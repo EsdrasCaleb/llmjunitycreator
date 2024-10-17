@@ -3,3 +3,7 @@ torch
 torchvision 
 torchaudio
 huggingface_hub
+acelerate
+sentencepiece
+safetensors
+protobuf
